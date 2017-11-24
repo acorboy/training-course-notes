@@ -1,0 +1,13 @@
+Core Training Overview
+	Next Steps:
+		Pick Python Training Class
+		Start Python
+		Pick Spark Training Class
+		Setup Kafka
+		Look for Spark + Kafka project
+			
+	
+	Chunks
+		GitHub
+		Python - scripting
+		
