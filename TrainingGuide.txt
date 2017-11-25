@@ -1,11 +1,15 @@
 Core Training Overview
 	Next Steps:
 		Pick Python Training Class
+			Udacity
+			Google's  Python
+			Learn Python the hard way
+			
 		Start Python
 		Pick Spark Training Class
 		Setup Kafka
 		Look for Spark + Kafka project
-			
+		Revist GitHub with tryGIT (linked in training)
 	
 	Chunks
 		GitHub
