@@ -1,0 +1,100 @@
+python or python3 opens the basic python shell
+
+*.py programs are executed as "python hello.py" at the command line
+
+help() - example help(int) for help on integers
+		- help(class_name.method_name)
+		- help(str.index)
+
+#Comments
+		
+The name of a variable or method is called - Identifier
+
+Identifiers
+	1. Start with letter or "_".  NOT DIGITS
+	2. Letters, digits, and "_" are ok
+	3. Any length
+	4. No key words like:
+		False      class      finally    is         return
+		None       continue   for        lambda     try
+		True       def        from       nonlocal   while
+		and        del        global     not        with
+		as         elif       if         or         yield
+		pass       else       import     assert
+		break      except     in         raise
+	
+Variables
+	Everything is an object, even primitives like int, float, string
+	
+	Don't need to declare type
+	
+	x = 100 # x stores a reference to the 100 which is actually an int object
+	
+	Simultaneous Assignment
+		var1, var2, var3 = exp1, exp2, exp3
+		Do all that variable assignment in 1 line.
+		
+		Helpful for switching values
+			x,y = y,x
+		
+Data Types
+	Numbers
+	String
+	List
+	Tuple
+	Dictionary
+	Boolean (literals)
+		False:
+		0 – zero , 0.0 ,
+		[] – empty list , () – empty tuple , {} – empty dictionary ,  ”
+		None <keyword>
+		
+Input from Console
+	input() - always returns a string
+		string to number - int() or eval()
+	
+	>>>age = input("Enter your age: " )
+	Enter your age: 31
+	>>>age
+	'31'
+	>>>type(age)
+	<class 'str>
+	>>>age = eval(age)
+	>>>age
+	31
+	>>>type(age)
+	<class 'int'>
+	
+Import Modules
+	import module_name1, method_name2, ...
+	
+	>>>import math
+	>>>math.pi
+	3.141592653589793
+	
+Next: http://thepythonguru.com/python-numbers/
+
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
